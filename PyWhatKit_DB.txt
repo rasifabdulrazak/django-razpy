@@ -1,0 +1,35 @@
+Date: 7/2/2024
+Time: 10:14
+Phone Number: +919744088812
+Message: Hello from Python! This is an instant WhatsApp message.
+--------------------
+Date: 7/2/2024
+Time: 10:17
+Phone Number: +919744088812
+Message: Hello from Python! This is an instant WhatsApp message.
+--------------------
+Date: 7/2/2024
+Time: 10:41
+Phone Number: +919744088812
+Message: Geeks For Geeks!
+--------------------
+Date: 7/2/2024
+Time: 10:45
+Phone Number: +919744088812
+Message: Hello from Python! This is an instant WhatsApp message.
+--------------------
+Date: 7/2/2024
+Time: 10:46
+Phone Number: +919744088812
+Message: Geeks For Geeks!
+--------------------
+Date: 7/2/2024
+Time: 11:17
+Phone Number: +919744088812
+Message: Geeks For Geeks!
+--------------------
+Date: 7/2/2024
+Time: 11:20
+Phone Number: +919744088812
+Message: Hello from Python! This is an instant WhatsApp message.
+--------------------
